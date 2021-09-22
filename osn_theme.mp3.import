@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/osn_theme.mp3-b3155b0dd8ecccd7279c66086ce75bde.mp3str"
+
+[deps]
+
+source_file="res://web/osn_theme.mp3"
+dest_files=[ "res://.import/osn_theme.mp3-b3155b0dd8ecccd7279c66086ce75bde.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
